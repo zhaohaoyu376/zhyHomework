@@ -1,0 +1,13 @@
+E:\作业\Homework3\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.exe
+E:\作业\Homework3\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.deps.json
+E:\作业\Homework3\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.json
+E:\作业\Homework3\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.dev.json
+E:\作业\Homework3\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.dll
+E:\作业\Homework3\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.pdb
+E:\作业\Homework3\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csprojAssemblyReference.cache
+E:\作业\Homework3\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.AssemblyInfoInputs.cache
+E:\作业\Homework3\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.AssemblyInfo.cs
+E:\作业\Homework3\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csproj.CoreCompileInputs.cache
+E:\作业\Homework3\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.dll
+E:\作业\Homework3\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.pdb
+E:\作业\Homework3\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.genruntimeconfig.cache
