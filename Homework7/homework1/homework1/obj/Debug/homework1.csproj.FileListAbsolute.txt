@@ -1,0 +1,10 @@
+E:\作业\Homework7\homework1\homework1\bin\Debug\homework1.exe.config
+E:\作业\Homework7\homework1\homework1\bin\Debug\homework1.exe
+E:\作业\Homework7\homework1\homework1\bin\Debug\homework1.pdb
+E:\作业\Homework7\homework1\homework1\obj\Debug\homework1.csprojAssemblyReference.cache
+E:\作业\Homework7\homework1\homework1\obj\Debug\homework1.Form1.resources
+E:\作业\Homework7\homework1\homework1\obj\Debug\homework1.Properties.Resources.resources
+E:\作业\Homework7\homework1\homework1\obj\Debug\homework1.csproj.GenerateResource.cache
+E:\作业\Homework7\homework1\homework1\obj\Debug\homework1.csproj.CoreCompileInputs.cache
+E:\作业\Homework7\homework1\homework1\obj\Debug\homework1.exe
+E:\作业\Homework7\homework1\homework1\obj\Debug\homework1.pdb
