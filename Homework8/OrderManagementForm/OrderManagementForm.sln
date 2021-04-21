@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementForm", "OrderManagementForm\OrderManagementForm.csproj", "{4D4358E9-64B1-415E-AABC-E44439AF42BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement", "..\..\Week 5&6-OrderManagement\OrderManagement\OrderManagement\OrderManagement.csproj", "{E0ED4364-CE04-4CCB-A69D-F2EA97EC13E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementTests", "..\..\Week 5&6-OrderManagement\OrderManagement\OrderManagementTests\OrderManagementTests.csproj", "{CBF307F5-DE2F-4FE3-AF83-B9613EA92E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4358E9-64B1-415E-AABC-E44439AF42BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4358E9-64B1-415E-AABC-E44439AF42BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4358E9-64B1-415E-AABC-E44439AF42BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4358E9-64B1-415E-AABC-E44439AF42BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0ED4364-CE04-4CCB-A69D-F2EA97EC13E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0ED4364-CE04-4CCB-A69D-F2EA97EC13E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0ED4364-CE04-4CCB-A69D-F2EA97EC13E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0ED4364-CE04-4CCB-A69D-F2EA97EC13E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF307F5-DE2F-4FE3-AF83-B9613EA92E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF307F5-DE2F-4FE3-AF83-B9613EA92E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF307F5-DE2F-4FE3-AF83-B9613EA92E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF307F5-DE2F-4FE3-AF83-B9613EA92E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
